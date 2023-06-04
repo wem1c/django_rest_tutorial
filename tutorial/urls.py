@@ -26,7 +26,7 @@ router.register(r'groups', views.GroupViewSet)
 # Additionally, we include login URLs for the browsable API.
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include(router.urls)),
+    #path('', include(router.urls)),    # these are quickstart's urls, not snippets'
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
     path('', include('snippets.urls')),
 ]
