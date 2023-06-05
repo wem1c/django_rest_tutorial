@@ -1,18 +1,18 @@
 # What is this?
 
-Code I copied/wrote while following [Django Rest Framework's tutorial](https://www.django-rest-framework.org/tutorial/1-serialization/)
+Code I copied/wrote while following [Django Rest Framework's tutorial](https://www.django-rest-framework.org/tutorial/quickstart/)
 
 # Tech used
 
-- [Django](https://www.djangoproject.com/)
-- [django-rest-framework](https://www.django-rest-framework.org/)
+-   [Django](https://www.djangoproject.com/)
+-   [django-rest-framework](https://www.django-rest-framework.org/)
 
 # Development
 
 ## Prerequisites
 
-- [Python](https://www.python.org/)
-- [pip](https://pypi.org/project/pip/)
+-   [Python](https://www.python.org/)
+-   [pip](https://pypi.org/project/pip/)
 
 ## Installation
 
